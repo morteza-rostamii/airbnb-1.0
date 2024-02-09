@@ -34,15 +34,6 @@ const filters = [
   },
 ]
 
-// leaflet ssr issue fix -------------------
-const Map = dynamic(
-  () => import('./_components/GMap'),
-  { 
-    loading: () => <><Spinner /></>,
-    ssr: false
-  }
-);
-
 const SearchPage = ({results}: any) => {
 
   // get url strings---------------
@@ -62,13 +53,13 @@ const SearchPage = ({results}: any) => {
   }, [startDate, endDate]);
 
   // leaflet ssr issue fix -------------------
-  // const Map = useMemo(() => dynamic(
-  //   () => import('./_components/GMap'),
-  //   { 
-  //     loading: () => <p>A map is loading</p>,
-  //     ssr: false
-  //   }
-  // ), []);
+  const Map = useMemo(() => dynamic(
+    () => import('./_components/GMap'),
+    { 
+      loading: () => <><Spinner/></>,
+      ssr: false
+    }
+  ), []);
 
   return (
     <Layout>

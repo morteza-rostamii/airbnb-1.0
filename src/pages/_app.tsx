@@ -4,6 +4,7 @@ import { ChakraProvider } from '@chakra-ui/react'
 
 import ProgressBar from "@badrap/bar-of-progress";
 import { Router } from "next/router";
+import "leaflet/dist/leaflet.css";
 
 const progress = new ProgressBar({
   size: 4,

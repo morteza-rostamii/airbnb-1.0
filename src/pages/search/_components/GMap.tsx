@@ -9,6 +9,7 @@ import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility
 import { useRouter } from 'next/router'
 
 export default function GMap(props: any) {
+  const [isMounted, setIsMounted] = React.useState(false);
   const { zoom } = props
   
   // auto: name to geoCode -------------
@@ -37,28 +38,35 @@ export default function GMap(props: any) {
     }
   }, [location]);
 
+  // is component mounted on client-------------
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
   return (
-    <MapContainer 
-    // re render map if position changes
-    key={position.join(',')}
-    center={position} 
-    zoom={zoom} 
-    scrollWheelZoom={true}
-    style={{height: "100%", width: "100%"}}
-    >
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
-      <Marker 
-      position={position}
-      draggable={true}
-      //animate={true}
+    isMounted && (
+      <MapContainer 
+      // re render map if position changes
+      key={position.join(',')}
+      center={position} 
+      zoom={zoom} 
+      scrollWheelZoom={true}
+      style={{height: "100%", width: "100%"}}
       >
-        <Popup>
-          A pretty CSS3 popup. <br /> Easily customizable.
-        </Popup>
-      </Marker>
-    </MapContainer>
+        <TileLayer
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        />
+        <Marker 
+        position={position}
+        draggable={true}
+        //animate={true}
+        >
+          <Popup>
+            A pretty CSS3 popup. <br /> Easily customizable.
+          </Popup>
+        </Marker>
+      </MapContainer>
+    )
   )
 }
