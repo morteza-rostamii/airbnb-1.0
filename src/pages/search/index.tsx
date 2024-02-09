@@ -4,7 +4,7 @@ import data from '@/datas/data.json'
 import ResCard from './_components/ResCard'
 import { Lato } from 'next/font/google';
 import { HiAdjustmentsVertical, HiCog6Tooth } from 'react-icons/hi2';
-import { Button } from '@chakra-ui/react';
+import { Button, Spinner } from '@chakra-ui/react';
 import { useRouter } from 'next/router';
 const lato = Lato({ subsets: ["latin"], weight: '400' });
 import {format} from 'date-fns'
@@ -34,6 +34,15 @@ const filters = [
   },
 ]
 
+// leaflet ssr issue fix -------------------
+const Map = dynamic(
+  () => import('./_components/GMap'),
+  { 
+    loading: () => <><Spinner /></>,
+    ssr: false
+  }
+);
+
 const SearchPage = ({results}: any) => {
 
   // get url strings---------------
@@ -53,13 +62,13 @@ const SearchPage = ({results}: any) => {
   }, [startDate, endDate]);
 
   // leaflet ssr issue fix -------------------
-  const Map = useMemo(() => dynamic(
-    () => import('./_components/GMap'),
-    { 
-      loading: () => <p>A map is loading</p>,
-      ssr: false
-    }
-  ), []);
+  // const Map = useMemo(() => dynamic(
+  //   () => import('./_components/GMap'),
+  //   { 
+  //     loading: () => <p>A map is loading</p>,
+  //     ssr: false
+  //   }
+  // ), []);
 
   return (
     <Layout>
