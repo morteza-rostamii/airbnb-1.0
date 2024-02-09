@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react'
 import Layout from '../index/_components/Layout'
-import data from '@/datas/data.json'
+//import data from '@/datas/data.json'
 import ResCard from './_components/ResCard'
 import { Lato } from 'next/font/google';
 import { HiAdjustmentsVertical, HiCog6Tooth } from 'react-icons/hi2';
@@ -185,7 +185,21 @@ function getRandomElements(arr:any, n:number) {
   return result;
 }
 
-export async function getServerSideProps() {
+//getServerSideProps
+export async function getStaticProps() {
+
+  const URL = 'https://www.jsonkeeper.com/b/OS05';
+  let data = null;
+  try {
+    const response = await fetch(URL, {
+      method: 'GET',
+    });
+    data = await response.json();
+    console.log(data);
+  }
+  catch(error:any) {
+    console.log(error?.message || error);
+  }
 
   const res = getRandomElements(data, 10);
 

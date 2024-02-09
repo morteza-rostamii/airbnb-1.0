@@ -6,7 +6,7 @@ import Filters from "./index/_components/filters/Filters";
 import LocGrid from "./index/_components/locGrid/LocGrid";
 import { faker } from "@faker-js/faker";
 
-import data from '@/datas/data.json'
+//import data from '@/datas/data.json'
 import Picker from "./index/_components/header/search/Picker";
 
 const lato = Lato({ subsets: ["latin"], weight: '400' });
@@ -63,10 +63,24 @@ export async function getStaticProps() {
     };
   });*/
 
+  const URL = 'https://www.jsonkeeper.com/b/OS05';
+  let data = null;
+  try {
+    const response = await fetch(URL, {
+      method: 'GET',
+    });
+    data = await response.json();
+    console.log(data);
+  }
+  catch(error:any) {
+    console.log(error?.message || error);
+  }
+
+  console.log('---')
   return {
     props: {
       places: data,
     },
-    revalidate: 60 * 60,
+    //revalidate: 60 * 60,
   };
 }
