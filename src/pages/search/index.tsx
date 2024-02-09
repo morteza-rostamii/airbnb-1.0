@@ -54,7 +54,7 @@ const SearchPage = ({results}: any) => {
 
   // leaflet ssr issue fix -------------------
   const Map = useMemo(() => dynamic(
-    () => import('./_components/GMap'),
+    () => import('../../components/GMap'),
     { 
       loading: () => <><Spinner/></>,
       ssr: false
