@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react'
-import Layout from '../index/_components/Layout'
+import Layout from '../../components/index/Layout'
 //import data from '@/datas/data.json'
-import ResCard from './_components/ResCard'
+import ResCard from '../../components/search/ResCard'
 import { Lato } from 'next/font/google';
 import { HiAdjustmentsVertical, HiCog6Tooth } from 'react-icons/hi2';
 import { Button, Spinner } from '@chakra-ui/react';

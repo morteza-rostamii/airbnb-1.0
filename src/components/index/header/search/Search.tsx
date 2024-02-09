@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { HiMagnifyingGlass } from 'react-icons/hi2'
 import Picker from './Picker';
 import { useRouter } from 'next/router';
-import useSearchStore from '@/pages/search/_stores/search.store';
+import useSearchStore from '@/stores/search.store';
 
 const Search = () => {
   const {

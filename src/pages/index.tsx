@@ -1,13 +1,13 @@
 import Image from "next/image";
 import { Lato } from "next/font/google";
-import Layout from "./index/_components/Layout";
+import Layout from "../components/index/Layout";
 import Head from "next/head";
-import Filters from "./index/_components/filters/Filters";
-import LocGrid from "./index/_components/locGrid/LocGrid";
+import Filters from "../components/index/filters/Filters";
+import LocGrid from "../components/index/locGrid/LocGrid";
 import { faker } from "@faker-js/faker";
 
 //import data from '@/datas/data.json'
-import Picker from "./index/_components/header/search/Picker";
+import Picker from "../components/index/header/search/Picker";
 
 const lato = Lato({ subsets: ["latin"], weight: '400' });
 

@@ -6,7 +6,7 @@ import { DateRangePicker } from 'react-date-range';
 import { Button, NumberDecrementStepper, NumberIncrementStepper, NumberInput, NumberInputField, NumberInputStepper } from '@chakra-ui/react';
 import { HiMiniUsers, HiUser } from 'react-icons/hi2';
 import { useRouter } from 'next/router';
-import useSearchStore from '@/pages/search/_stores/search.store';
+import useSearchStore from '@/stores/search.store';
 
 const Picker = () => {
   const {

@@ -6,7 +6,7 @@ import { HiBars3, HiMiniUserCircle } from 'react-icons/hi2'
 import Search from './header/search/Search'
 import Link from 'next/link'
 import Picker from './header/search/Picker'
-import useSearchStore from '@/pages/search/_stores/search.store'
+import useSearchStore from '@/stores/search.store'
 
 const Header = () => {
   const {searchInput, } = useSearchStore();
