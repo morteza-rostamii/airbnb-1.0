@@ -1,0 +1,722 @@
+[
+  {
+    "id": "463b8bb7-6cf6-4a97-8266-5ab5730b69ba",
+    "name": "subito summisse",
+    "slug": "subito-summisse",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3965484120670208",
+      "https://loremflickr.com/640/480/building?lock=1580328925790208",
+      "https://loremflickr.com/640/480/building?lock=754141135634432",
+      "https://loremflickr.com/640/480/building?lock=4787789105201152"
+    ],
+    "address": "546 Roslyn Lock",
+    "price": 296,
+    "city": "Moorebury",
+    "rating": 4,
+    "bedrooms": 3,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "334fac1c-6062-4726-914e-6cebf8879914",
+    "name": "conturbo corrumpo",
+    "slug": "conturbo-corrumpo",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=4479359366725632",
+      "https://loremflickr.com/640/480/building?lock=3736422343245824",
+      "https://loremflickr.com/640/480/building?lock=6154285161119744",
+      "https://loremflickr.com/640/480/building?lock=7803019162812416"
+    ],
+    "address": "314 Yost Falls",
+    "price": 217,
+    "city": "Lesleyfort",
+    "rating": 2,
+    "bedrooms": 3,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "8650456b-ade4-487a-849d-94a8d215ce32",
+    "name": "pax cimentarius",
+    "slug": "pax-cimentarius",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=4452404535754752",
+      "https://loremflickr.com/640/480/building?lock=5156233923264512",
+      "https://loremflickr.com/640/480/building?lock=1912211324796928",
+      "https://loremflickr.com/640/480/building?lock=862101708996608"
+    ],
+    "address": "8169 Woodside Road",
+    "price": 26,
+    "city": "Laurettaborough",
+    "rating": 4,
+    "bedrooms": 3,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "b158be83-65ed-4db5-a603-4668b8f05ac0",
+    "name": "argumentum tendo",
+    "slug": "argumentum-tendo",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=387551886049280",
+      "https://loremflickr.com/640/480/building?lock=6230295915266048",
+      "https://loremflickr.com/640/480/building?lock=7881759949586432",
+      "https://loremflickr.com/640/480/building?lock=1361235056525312"
+    ],
+    "address": "47233 N Center Street",
+    "price": 31,
+    "city": "Lueilwitzland",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "3d48dd86-a5c5-4d26-9d05-78899840efae",
+    "name": "degero solvo",
+    "slug": "degero-solvo",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=1870217590341632",
+      "https://loremflickr.com/640/480/building?lock=4873741861388288",
+      "https://loremflickr.com/640/480/building?lock=2634510428536832",
+      "https://loremflickr.com/640/480/building?lock=4044713432711168"
+    ],
+    "address": "3929 Gerhold Rapids",
+    "price": 235,
+    "city": "Raebury",
+    "rating": 2,
+    "bedrooms": 4,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "9fd5fd11-603e-47e8-8310-4de39071c7b8",
+    "name": "arto aspicio",
+    "slug": "arto-aspicio",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3754156883968000",
+      "https://loremflickr.com/640/480/building?lock=6383378639093760",
+      "https://loremflickr.com/640/480/building?lock=2304428216418304",
+      "https://loremflickr.com/640/480/building?lock=7559232039682048"
+    ],
+    "address": "2878 Marlon Freeway",
+    "price": 398,
+    "city": "Jakubowskiland",
+    "rating": 2,
+    "bedrooms": 4,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "67270c99-41e9-49d7-a52e-0c295c71ad3d",
+    "name": "desipio subito",
+    "slug": "desipio-subito",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8195395307962368",
+      "https://loremflickr.com/640/480/building?lock=8326900004945920",
+      "https://loremflickr.com/640/480/building?lock=1158606886010880",
+      "https://loremflickr.com/640/480/building?lock=717227552669696"
+    ],
+    "address": "51630 Strosin Mount",
+    "price": 185,
+    "city": "South Colleenmouth",
+    "rating": 4,
+    "bedrooms": 2,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "0a87e996-34b4-46ba-8d09-a70ab67b1f81",
+    "name": "titulus turba",
+    "slug": "titulus-turba",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=523544666570752",
+      "https://loremflickr.com/640/480/building?lock=5884987542863872",
+      "https://loremflickr.com/640/480/building?lock=5296389997199360",
+      "https://loremflickr.com/640/480/building?lock=8971948010766336"
+    ],
+    "address": "755 Brook Road",
+    "price": 135,
+    "city": "Kundechester",
+    "rating": 4,
+    "bedrooms": 1,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "465ca607-c295-4adb-9286-1f732eae81a7",
+    "name": "auditor earum",
+    "slug": "auditor-earum",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=4523562580836352",
+      "https://loremflickr.com/640/480/building?lock=4427134254710784",
+      "https://loremflickr.com/640/480/building?lock=2825278709563392",
+      "https://loremflickr.com/640/480/building?lock=7387182817869824"
+    ],
+    "address": "22104 Allan Spur",
+    "price": 134,
+    "city": "Huntington",
+    "rating": 2,
+    "bedrooms": 2,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "88a8017c-f661-4127-98f7-55c1c93379b4",
+    "name": "vomer tonsor",
+    "slug": "vomer-tonsor",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8082204427026432",
+      "https://loremflickr.com/640/480/building?lock=1720437685878784",
+      "https://loremflickr.com/640/480/building?lock=5242328019107840",
+      "https://loremflickr.com/640/480/building?lock=8714413999652864"
+    ],
+    "address": "668 6th Street",
+    "price": 367,
+    "city": "North Jimmie",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "9553f193-a46a-4b46-95c0-f5287289644a",
+    "name": "apparatus capillus",
+    "slug": "apparatus-capillus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=235958045769728",
+      "https://loremflickr.com/640/480/building?lock=7548763669266432",
+      "https://loremflickr.com/640/480/building?lock=7994731128684544",
+      "https://loremflickr.com/640/480/building?lock=5869474431369216"
+    ],
+    "address": "91478 Payton Rapid",
+    "price": 121,
+    "city": "Rosemead",
+    "rating": 4,
+    "bedrooms": 5,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "6adb57e1-2ffa-4d1d-b21d-9408b1091535",
+    "name": "vitae voluptatem",
+    "slug": "vitae-voluptatem",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=5886414231175168",
+      "https://loremflickr.com/640/480/building?lock=3274804354351104",
+      "https://loremflickr.com/640/480/building?lock=3196682030284800",
+      "https://loremflickr.com/640/480/building?lock=4863526696910848"
+    ],
+    "address": "662 North Lane",
+    "price": 127,
+    "city": "Franeckiboro",
+    "rating": 2,
+    "bedrooms": 3,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "790fe858-a057-4eeb-a310-b6e58df07e0a",
+    "name": "adeo vicissitudo",
+    "slug": "adeo-vicissitudo",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8144543683706880",
+      "https://loremflickr.com/640/480/building?lock=4700324008820736",
+      "https://loremflickr.com/640/480/building?lock=5472135390691328",
+      "https://loremflickr.com/640/480/building?lock=5219647062278144"
+    ],
+    "address": "833 Veum Hollow",
+    "price": 172,
+    "city": "Hudsonbury",
+    "rating": 2,
+    "bedrooms": 2,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "a54ae473-4565-46ec-9dbb-7f86d3b184b2",
+    "name": "deleniti ver",
+    "slug": "deleniti-ver",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=830338565668864",
+      "https://loremflickr.com/640/480/building?lock=4881626423099392",
+      "https://loremflickr.com/640/480/building?lock=5430730410688512",
+      "https://loremflickr.com/640/480/building?lock=5224646876069888"
+    ],
+    "address": "1561 S 6th Street",
+    "price": 230,
+    "city": "New Duane",
+    "rating": 2,
+    "bedrooms": 4,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "98bb1ef9-131b-48c7-a32d-67dcc3252f8a",
+    "name": "quo conculco",
+    "slug": "quo-conculco",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=6961464631885824",
+      "https://loremflickr.com/640/480/building?lock=3886480871129088",
+      "https://loremflickr.com/640/480/building?lock=6200324905762816",
+      "https://loremflickr.com/640/480/building?lock=3247681168211968"
+    ],
+    "address": "54480 Atlantic Avenue",
+    "price": 22,
+    "city": "North Lloydborough",
+    "rating": 2,
+    "bedrooms": 5,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "c5b316b3-5df7-4243-be75-7e108bd76790",
+    "name": "corrigo centum",
+    "slug": "corrigo-centum",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=366441582821376",
+      "https://loremflickr.com/640/480/building?lock=3562747107213312",
+      "https://loremflickr.com/640/480/building?lock=2997178110836736",
+      "https://loremflickr.com/640/480/building?lock=4195875532308480"
+    ],
+    "address": "868 Cummerata Parkways",
+    "price": 313,
+    "city": "South Casper",
+    "rating": 4,
+    "bedrooms": 2,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "74ef2da5-cfdf-416a-8a96-a40164b42692",
+    "name": "cogo dolor",
+    "slug": "cogo-dolor",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8591232464846848",
+      "https://loremflickr.com/640/480/building?lock=157236020117504",
+      "https://loremflickr.com/640/480/building?lock=926659635052544",
+      "https://loremflickr.com/640/480/building?lock=4258238040113152"
+    ],
+    "address": "8484 Gabrielle Views",
+    "price": 350,
+    "city": "Dwightland",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "42851f1e-d567-4a9f-a031-0a02bee67769",
+    "name": "urbs temperantia",
+    "slug": "urbs-temperantia",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=7397759950782464",
+      "https://loremflickr.com/640/480/building?lock=7736435098517504",
+      "https://loremflickr.com/640/480/building?lock=4333597815209984",
+      "https://loremflickr.com/640/480/building?lock=5874079926059008"
+    ],
+    "address": "34721 Clark Street",
+    "price": 65,
+    "city": "Wymanburgh",
+    "rating": 2,
+    "bedrooms": 4,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "9fe0fa80-5c93-4511-aa0b-ea803497f43c",
+    "name": "rerum chirographum",
+    "slug": "rerum-chirographum",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=1180979878166528",
+      "https://loremflickr.com/640/480/building?lock=4684428798328832",
+      "https://loremflickr.com/640/480/building?lock=5514021490917376",
+      "https://loremflickr.com/640/480/building?lock=491806466768896"
+    ],
+    "address": "590 Christopher Alley",
+    "price": 313,
+    "city": "Fresno",
+    "rating": 4,
+    "bedrooms": 2,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "b93261db-2ced-47f6-9c4c-ee8dc6d4ef4d",
+    "name": "cupressus modi",
+    "slug": "cupressus-modi",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=7021756279685120",
+      "https://loremflickr.com/640/480/building?lock=5359948936511488",
+      "https://loremflickr.com/640/480/building?lock=6084631629660160",
+      "https://loremflickr.com/640/480/building?lock=3975094382624768"
+    ],
+    "address": "933 Middle Street",
+    "price": 73,
+    "city": "Macejkovicview",
+    "rating": 2,
+    "bedrooms": 5,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "15a274ec-c850-4efd-89d0-ea6642b90b0a",
+    "name": "trans bos",
+    "slug": "trans-bos",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=2229400347082752",
+      "https://loremflickr.com/640/480/building?lock=1017210803847168",
+      "https://loremflickr.com/640/480/building?lock=4727574609526784",
+      "https://loremflickr.com/640/480/building?lock=6731567651094528"
+    ],
+    "address": "9793 The Crescent",
+    "price": 202,
+    "city": "Waelchitown",
+    "rating": 2,
+    "bedrooms": 3,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "9248dc61-4de2-4585-b6c3-3ae0ec585e28",
+    "name": "audacia minus",
+    "slug": "audacia-minus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=315550712463360",
+      "https://loremflickr.com/640/480/building?lock=2569583120613376",
+      "https://loremflickr.com/640/480/building?lock=1293442544041984",
+      "https://loremflickr.com/640/480/building?lock=7043267839393792"
+    ],
+    "address": "345 Streich Gateway",
+    "price": 352,
+    "city": "Fort Virginia",
+    "rating": 2,
+    "bedrooms": 3,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "cd5d2fab-3ccb-479d-bb0b-0008bcb3a7e6",
+    "name": "officiis socius",
+    "slug": "officiis-socius",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3627984284024832",
+      "https://loremflickr.com/640/480/building?lock=6565191003144192",
+      "https://loremflickr.com/640/480/building?lock=1097432911839232",
+      "https://loremflickr.com/640/480/building?lock=5382115782819840"
+    ],
+    "address": "6476 Lowe Loaf",
+    "price": 30,
+    "city": "Alexandriafort",
+    "rating": 4,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "e772af7c-356c-41aa-b839-72fd0e224cff",
+    "name": "vitiosus incidunt",
+    "slug": "vitiosus-incidunt",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8897165000704000",
+      "https://loremflickr.com/640/480/building?lock=1459173837504512",
+      "https://loremflickr.com/640/480/building?lock=7096511500386304",
+      "https://loremflickr.com/640/480/building?lock=8837123293577216"
+    ],
+    "address": "7152 Cedar Street",
+    "price": 355,
+    "city": "Hendersonville",
+    "rating": 4,
+    "bedrooms": 4,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "02a72485-8fb7-44a6-b58f-5a53213f5f19",
+    "name": "crastinus compello",
+    "slug": "crastinus-compello",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=153045824438272",
+      "https://loremflickr.com/640/480/building?lock=3941246462590976",
+      "https://loremflickr.com/640/480/building?lock=2031437637222400",
+      "https://loremflickr.com/640/480/building?lock=6776414502125568"
+    ],
+    "address": "582 Kautzer Haven",
+    "price": 371,
+    "city": "Fort Beverly",
+    "rating": 4,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "e2634abc-ac72-4dfe-93b9-499f7af9b8dc",
+    "name": "usque titulus",
+    "slug": "usque-titulus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=955260875046912",
+      "https://loremflickr.com/640/480/building?lock=1067524177264640",
+      "https://loremflickr.com/640/480/building?lock=18842189299712",
+      "https://loremflickr.com/640/480/building?lock=2017732434329600"
+    ],
+    "address": "847 Keven Haven",
+    "price": 153,
+    "city": "Milford",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "d4157076-4df2-4e67-bc18-36477d51c77b",
+    "name": "decet aufero",
+    "slug": "decet-aufero",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=5626024914059264",
+      "https://loremflickr.com/640/480/building?lock=8969204694777856",
+      "https://loremflickr.com/640/480/building?lock=783815830142976",
+      "https://loremflickr.com/640/480/building?lock=1980106180395008"
+    ],
+    "address": "658 West Mountain",
+    "price": 130,
+    "city": "Rancho Cucamonga",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "cb2f58a3-a9a9-43af-b2de-b9708a933088",
+    "name": "sortitus adversus",
+    "slug": "sortitus-adversus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=7325678011678720",
+      "https://loremflickr.com/640/480/building?lock=6500986606583808",
+      "https://loremflickr.com/640/480/building?lock=7745661298540544",
+      "https://loremflickr.com/640/480/building?lock=1226852421074944"
+    ],
+    "address": "46273 Prince Walks",
+    "price": 387,
+    "city": "North Anthony",
+    "rating": 2,
+    "bedrooms": 3,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "c5e95eeb-2384-468d-bcf9-08097c58aeaf",
+    "name": "fugit caries",
+    "slug": "fugit-caries",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=8244780471418880",
+      "https://loremflickr.com/640/480/building?lock=1745905489281024",
+      "https://loremflickr.com/640/480/building?lock=6796097016037376",
+      "https://loremflickr.com/640/480/building?lock=3037115319320576"
+    ],
+    "address": "53122 Heller Glen",
+    "price": 325,
+    "city": "Feeneyland",
+    "rating": 4,
+    "bedrooms": 4,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "9619f8af-ac68-482c-8e03-8a0e73f35ddd",
+    "name": "ustilo truculenter",
+    "slug": "ustilo-truculenter",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3167862158000128",
+      "https://loremflickr.com/640/480/building?lock=8706805121155072",
+      "https://loremflickr.com/640/480/building?lock=2387775080890368",
+      "https://loremflickr.com/640/480/building?lock=5117074026266624"
+    ],
+    "address": "39181 The Crescent",
+    "price": 215,
+    "city": "North Elnoraton",
+    "rating": 4,
+    "bedrooms": 2,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "0df216f3-133a-4a79-a551-78f59684d6b8",
+    "name": "surgo vinitor",
+    "slug": "surgo-vinitor",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=127396046962688",
+      "https://loremflickr.com/640/480/building?lock=4075836883861504",
+      "https://loremflickr.com/640/480/building?lock=7634925381484544",
+      "https://loremflickr.com/640/480/building?lock=7610380983468032"
+    ],
+    "address": "352 Felicita Well",
+    "price": 319,
+    "city": "North Matteo",
+    "rating": 2,
+    "bedrooms": 4,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "6fc16793-541d-4c56-8163-ad5f74bac1fb",
+    "name": "ver avarus",
+    "slug": "ver-avarus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3750927529934848",
+      "https://loremflickr.com/640/480/building?lock=8758656879296512",
+      "https://loremflickr.com/640/480/building?lock=8270049357856768",
+      "https://loremflickr.com/640/480/building?lock=1560645768052736"
+    ],
+    "address": "99352 Mayert Place",
+    "price": 31,
+    "city": "Fort Daphney",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "9ca76969-effa-433b-a043-f776bc3cd16f",
+    "name": "maiores depromo",
+    "slug": "maiores-depromo",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=4750907375878144",
+      "https://loremflickr.com/640/480/building?lock=7717299666550784",
+      "https://loremflickr.com/640/480/building?lock=5371929311576064",
+      "https://loremflickr.com/640/480/building?lock=7793394006884352"
+    ],
+    "address": "6668 S 3rd Street",
+    "price": 128,
+    "city": "Lee's Summit",
+    "rating": 4,
+    "bedrooms": 2,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "a2a51cdd-9a1e-4907-b33e-095e955246c9",
+    "name": "adinventitias pel",
+    "slug": "adinventitias-pel",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=5401995458379776",
+      "https://loremflickr.com/640/480/building?lock=6474067110526976",
+      "https://loremflickr.com/640/480/building?lock=3621224588509184",
+      "https://loremflickr.com/640/480/building?lock=911366003097600"
+    ],
+    "address": "505 Skyline Drive",
+    "price": 176,
+    "city": "Stamford",
+    "rating": 2,
+    "bedrooms": 1,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "a9895e31-2d1e-419d-8e6b-03ef3c4d31f1",
+    "name": "tabella vomito",
+    "slug": "tabella-vomito",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=6074762019209216",
+      "https://loremflickr.com/640/480/building?lock=6504668179988480",
+      "https://loremflickr.com/640/480/building?lock=5480490651877376",
+      "https://loremflickr.com/640/480/building?lock=8395509062434816"
+    ],
+    "address": "7184 Chaya Points",
+    "price": 66,
+    "city": "Strosinport",
+    "rating": 4,
+    "bedrooms": 5,
+    "wifi": true,
+    "parking": false
+  },
+  {
+    "id": "fc083757-20c8-4d66-b251-67205f3646b0",
+    "name": "super varius",
+    "slug": "super-varius",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=3843122775719936",
+      "https://loremflickr.com/640/480/building?lock=2374121337913344",
+      "https://loremflickr.com/640/480/building?lock=141822263296000",
+      "https://loremflickr.com/640/480/building?lock=7408869370232832"
+    ],
+    "address": "13689 Upton Branch",
+    "price": 333,
+    "city": "Port Nadiafurt",
+    "rating": 4,
+    "bedrooms": 5,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "57cb66b8-9f57-4151-a3ec-78fd5a3e5157",
+    "name": "consequuntur spiritus",
+    "slug": "consequuntur-spiritus",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=4006514612240384",
+      "https://loremflickr.com/640/480/building?lock=114729768976384",
+      "https://loremflickr.com/640/480/building?lock=7727359115395072",
+      "https://loremflickr.com/640/480/building?lock=6874912725663744"
+    ],
+    "address": "4845 Ferry Lake",
+    "price": 121,
+    "city": "Rebeccaborough",
+    "rating": 4,
+    "bedrooms": 3,
+    "wifi": true,
+    "parking": true
+  },
+  {
+    "id": "2983a8f9-0048-403c-96cd-8597a0646aa5",
+    "name": "venustas eaque",
+    "slug": "venustas-eaque",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=1853659119878144",
+      "https://loremflickr.com/640/480/building?lock=6375175880704000",
+      "https://loremflickr.com/640/480/building?lock=2617993563471872",
+      "https://loremflickr.com/640/480/building?lock=8872849127243776"
+    ],
+    "address": "903 Gottlieb Cape",
+    "price": 231,
+    "city": "Emeliaville",
+    "rating": 4,
+    "bedrooms": 4,
+    "wifi": false,
+    "parking": true
+  },
+  {
+    "id": "b56014d1-8794-4aa9-9700-353779b1cad5",
+    "name": "succurro studio",
+    "slug": "succurro-studio",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=1647608523128832",
+      "https://loremflickr.com/640/480/building?lock=4298983444840448",
+      "https://loremflickr.com/640/480/building?lock=7253737974267904",
+      "https://loremflickr.com/640/480/building?lock=3590054045810688"
+    ],
+    "address": "19273 Dooley Branch",
+    "price": 253,
+    "city": "Fort Luna",
+    "rating": 4,
+    "bedrooms": 5,
+    "wifi": false,
+    "parking": false
+  },
+  {
+    "id": "777da5c1-d7df-466c-9370-62f5196af0be",
+    "name": "suspendo cubicularis",
+    "slug": "suspendo-cubicularis",
+    "images": [
+      "https://loremflickr.com/640/480/building?lock=2122441509830656",
+      "https://loremflickr.com/640/480/building?lock=2494613346582528",
+      "https://loremflickr.com/640/480/building?lock=1342631233716224",
+      "https://loremflickr.com/640/480/building?lock=3380665647104"
+    ],
+    "address": "6613 Marcellus Islands",
+    "price": 132,
+    "city": "Fort Maymie",
+    "rating": 4,
+    "bedrooms": 4,
+    "wifi": true,
+    "parking": true
+  }
+]
